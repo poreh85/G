@@ -13,7 +13,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-public class MainActivity extends Activity {
+public class MainActivity.extends Activity {
     LinearLayout root;
     TextView clock;
     android.os.Handler handler = new android.os.Handler();
